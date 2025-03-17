@@ -76,4 +76,3 @@ print(data)
 
 # Exporter les données
 write.csv(data, "students_analyse.csv", row.names = FALSE)
- 
